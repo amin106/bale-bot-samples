@@ -50,7 +50,7 @@ def main():
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater(token="TOKEN",
+    updater = Updater(token="1347711901:ede6fa164649efe80cba062a95dec234924ad311",
                       base_url="https://tapi.bale.ai/")
 
     # Get the dispatcher to register handlers
